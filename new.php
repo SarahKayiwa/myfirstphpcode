@@ -6,7 +6,7 @@ function subtract(){
 	global $x, $y;
 	$y = $x + $y;
 
-
+//hhh
 }
 
 ?>
